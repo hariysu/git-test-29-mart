@@ -3,6 +3,9 @@ This is a first commit of this repo.
 Second line of this document
 =======
 
+<<<<<<< HEAD
+Third line of this document
+=======
 
 Forth line
 >>>>>>> master
